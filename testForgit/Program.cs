@@ -11,6 +11,7 @@ namespace testForgit
         static void Main(string[] args)
         {
             Console.WriteLine("test");
+            Console.WriteLine();  
         }
     }
 }
